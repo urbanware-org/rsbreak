@@ -6,6 +6,7 @@
 # Distributed under the MIT License (https://opensource.org/licenses/MIT)
 #
 # GitHub: https://github.com/urbanware-org/rsbreak
+# GitLab: https://gitlab.com/urbanware-org/rsbreak
 # ============================================================================
 
 version="1.0.0"

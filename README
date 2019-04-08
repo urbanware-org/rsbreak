@@ -15,11 +15,11 @@ README (rsbreak)
         Notice that this script is just a quick-and-dirty solution and not
         intended for everyday use. There is a lot of room for improvement in
         this tool.
-        
+
         For example, the given command-line arguments do not get validated,
         they will simply be passed to the 'rsync' command and no additional
         arguments can be added to the 'rsync' command.
-        
+
         Furthermore, using 'inotifywait' or something like that would also
         make sense and be an improvement. This would avoid the manual check of
         the log file every second. 

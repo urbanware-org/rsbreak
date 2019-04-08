@@ -22,7 +22,7 @@ README (rsbreak)
 
         Furthermore, using 'inotifywait' or something like that would also
         make sense and be an improvement. This would avoid the manual check of
-        the log file every second. 
+        the log file every second.
 
         Feel free to modify!
 
@@ -36,5 +36,5 @@ README (rsbreak)
     Contact
 
         Any suggestions, questions, bugs to report or feedback to give? If so,
-        you can find the contact information inside the 'CONTACT' file. 
+        you can find the contact information inside the 'CONTACT' file.
 

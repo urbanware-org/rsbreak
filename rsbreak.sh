@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # ============================================================================
 # rsbreak - Quick-and-dirty cancel 'rsync' on error script

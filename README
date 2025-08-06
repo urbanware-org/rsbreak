@@ -26,6 +26,11 @@ README (rsbreak)
 
         Feel free to modify!
 
+    Notice
+
+        This project was officially discontinued as of August 2025 and is no
+        longer maintained.
+
     Usage
 
         The script only expects two command-line arguments, a source and a
@@ -35,6 +40,10 @@ README (rsbreak)
 
     Contact
 
-        Any suggestions, questions, bugs to report or feedback to give? If so,
-        you can find the contact information inside the 'CONTACT' file.
+        As mentioned above, this project has been discontinued. For this
+        reason, no new features will be implemented, existing features will
+        not be enhanced and remaining bugs will not be fixed either.
+
+        However, if you have questions about it, you can contact me by
+        sending an email to <dev@urbanware.org>.
 
